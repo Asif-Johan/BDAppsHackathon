@@ -1,6 +1,4 @@
-Here’s an updated and finalized **project description** for your app **NexusConnect**, aligned with your clarifications:
 
----
 
 ## **App Name:** NexusConnect
 
@@ -19,16 +17,18 @@ Here’s an updated and finalized **project description** for your app **NexusCo
 #### 👩‍🎓 **For Students:**
 
 * **Smart Resume Builder:** Generate polished resumes tailored for internships or junior jobs.
-* **Internship & Micro-Gig Listings:** Browse and apply for real opportunities from companies across Bangladesh.
+* **Internship Page** : Browse and apply to real Internships / Junior level jobs
+* **Micro-Gig Listings:** Browse and apply for real micro-gig opportunities from companies across Bangladesh.
 * **Application Tracker:** View status of each application in real-time.
 * **Corporate Rooms Access:** Join company-created spaces where they can interact with potential candidates and complete assessments or discussions.
 
-> 🛑 *Note: Students cannot chat with other students. Communication is strictly between students and companies inside Corporate Rooms.*
+> 🛑 *Note: Students cannot chat with other students. Communication is strictly between students and companies inside Corporate Rooms. Inside corporate rooms, publicly students can talk among themselves also.*
 
 #### 🏢 **For Companies:**
 
-* **Post Internships & Micro-Gigs:** Share job roles, deadlines, and selection criteria.
-* **Corporate Rooms:** Private spaces to manage a cohort of student applicants or learners; ideal for shortlisting interns or varsity reps.
+* **Post Internships:** List available interships
+* **Post Micro-Gigs:** Share job roles, deadlines, and selection criteria.
+* **Corporate Rooms:** Private spaces to manage a cohort of student applicants or learners; ideal for shortlisting interns or varsity reps. They can arrange a test or interview or make rooms free to join
 * **Talent Discovery & Shortlisting:** Filter by skills, resumes, previous experience, and assign badges.
 * **Chat in Rooms:** Company representatives can chat with students inside their room, conduct assessments, and make announcements.
 
@@ -69,6 +69,7 @@ Here’s an updated and finalized **project description** for your app **NexusCo
 
   * Phone number + email login
   * Secure, simple, and free to start
+  * Also available google/linkedIn/facebook ligin
 
 #### ☁️ **Storage (Resumes, Files):**
 
@@ -79,12 +80,23 @@ Here’s an updated and finalized **project description** for your app **NexusCo
 * **Firestore for messaging**
 
   * No need for custom chat backend
-  * Real-time updates & easy to restrict student-to-student chats
+  * Real-time updates & restricted student-to-student chats
+  * Chat available in public in corporate rooms
+  * also available with gig provider and applicant of gig
+  * also with internship provider and applicant for internship
 
 #### 📤 **Notifications & Telco Integration:**
 
 * **Expo Push Notifications** (For in-app alerts)
 * **bdapps SMS API** (For SMS alerts & phone verification)
+
+#### 🤖 **AI Features (Premium)**
+* AI skill gap analysing and suggesting courses and topics to upgrade
+* AI resume-job match alalysing
+* upgrade resume with AI
+* AI hiring assitant for companies
+* Corporate room long multi task summerization
+
 
 ---
 
@@ -110,7 +122,3 @@ Here’s an updated and finalized **project description** for your app **NexusCo
 
   * Carrier billing for premium services
   * SMS notifications powered by bdapps APIs
-
----
-
-Would you like help writing a one-page summary for the **bdapps submission form**, or creating **screens/wireframes** to include in your pitch?
